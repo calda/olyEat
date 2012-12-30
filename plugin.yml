@@ -1,0 +1,9 @@
+name: olyEat
+main: com.olympuspvp.olyeat.olyEat
+version: b0.001
+author: CalDaBeast
+description: Ability to craft food that can be instantly eaten
+
+commands:
+    giveFood:
+        description: gives a special potato
